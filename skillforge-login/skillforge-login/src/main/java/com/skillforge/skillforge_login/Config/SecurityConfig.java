@@ -1,4 +1,4 @@
-package com.skillforge.skillforge_login.Config;
+mvnpackage com.skillforge.skillforge_login.Config;
 
 import com.skillforge.skillforge_login.Security.JwtFilter;
 import org.springframework.context.annotation.Bean;
